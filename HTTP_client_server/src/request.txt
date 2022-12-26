@@ -1,0 +1,4 @@
+GET /test.txt HTTP/1.1
+User-Agent: Wget/1.12 (linux-gnu)
+Host: localhost:3490
+Connection: Keep-Alive
